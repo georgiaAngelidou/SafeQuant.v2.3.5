@@ -6,10 +6,6 @@ The new feature includes supporting different file format and set the experiment
 
 ## Installation
 
-library("devtools")
-install_github("georgiaAngelidou/SafeQuant.v2.3.5", auth_token="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")
-
-
 **1. Install Dependecies**
 
 A) By using the installationCode.R
@@ -80,7 +76,7 @@ Linux: Install a compiler and various development libraries (details vary across
 
 	R> install.packages("devtools")
 	R> library("devtools")
-	R> install_github("georgiaAngelidou/safeQuant")
+	R> install_github("georgiaAngelidou/SafeQuant.v2.3.5")
 	
 **Option 2, install latest CRAN version.** This is the latest version found in the original github repository (https://github.com/eahrne/SafeQuant). 
 
